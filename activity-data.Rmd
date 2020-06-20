@@ -3,8 +3,8 @@ title: "Reproducible Research Project 1"
 author: "Aadithya S"
 date: "18/06/2020"
 output: 
-  html_document:
-    keep_md: true
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
